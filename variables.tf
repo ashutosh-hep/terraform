@@ -10,5 +10,7 @@ var zone = {
 var machine_type = {
 }
 
+var image = {
+}
 
   

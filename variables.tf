@@ -1,16 +1,16 @@
-variable "name" = {
+variable "name" {
 }
 
-variable"label" = {
+variable"label" {
 }
 
-variabele "zone" = {
+variabele "zone" {
 }
 
-variable "machine_type" = {
+variable "machine_type" {
 }
 
-variable "image" = {
+variable "image" {
 }
 
   

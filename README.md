@@ -9,3 +9,4 @@ Few setting needs to enbaled on workspace in order to achieve this (along with m
 1. workspace settings --> General --> Execution mode = remote
 2. org setting --> General --> Default Execution Mode == remote
 3. workspace settings --> Version Control --> VCS Branch = taget branch (ex: main)
+4. Enable Automatic speculative plans at workspace settings --> Version Control 

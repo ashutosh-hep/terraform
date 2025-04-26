@@ -1,7 +1,7 @@
 variable "name" {
 }
 
-variable"label" {
+variable "label" {
 }
 
 variabele "zone" {

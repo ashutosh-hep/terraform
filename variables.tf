@@ -4,7 +4,7 @@ variable "name" {
 variable "label" {
 }
 
-variabele "zone" {
+variable "zone" {
 }
 
 variable "machine_type" {

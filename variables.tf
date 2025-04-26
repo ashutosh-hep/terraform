@@ -13,8 +13,8 @@ variable "machine_type" {
 variable "image" {
 }
 
-var "region" {
+variable "region" {
 }
 
-var "project_id" {
+variable "project_id" {
 }

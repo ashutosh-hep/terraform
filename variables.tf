@@ -1,16 +1,16 @@
-var "name" = {
+variable "name" = {
 }
 
-var "label" = {
+variable"label" = {
 }
 
-var "zone" = {
+variabele "zone" = {
 }
 
-var "machine_type" = {
+variable "machine_type" = {
 }
 
-var "image" = {
+variable "image" = {
 }
 
   

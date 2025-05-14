@@ -18,3 +18,7 @@ variable "region" {
 
 variable "project_id" {
 }
+
+variable "gcs" {
+  type = list(string)
+}

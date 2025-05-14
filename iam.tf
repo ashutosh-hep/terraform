@@ -9,5 +9,5 @@ resource "google_project_iam_binding" "editor" {
   project = "your-project-id"
   role    = "roles/editor"
 
-  members = var.editor_member
+  members = var.editor_member_a
 }

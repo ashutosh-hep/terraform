@@ -26,3 +26,7 @@ variable "gcs" {
 variable "editor_member" {
   type = set(string)
 }
+
+variable "editor_member_a" {
+  type = list(string)
+}

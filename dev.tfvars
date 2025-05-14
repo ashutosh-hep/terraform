@@ -10,3 +10,4 @@ gcs = ["ashu-bucket7766", "ashu-bucket8825"]
 #gcs = [["ashu-bucket7766"],["ashu-bucket8825"]]
 
 editor_member = ["a@b.com", "d@e.com"]
+editor_member_a = ["user:f@g.com", "user:h@i.com"]

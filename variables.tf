@@ -30,3 +30,19 @@ variable "editor_member" {
 variable "editor_member_a" {
   type = list(string)
 }
+
+variable "database_name" {
+  
+}
+
+variable "database_instance_name" {
+  
+}
+
+variable "database_version" {
+  
+}
+
+variable "database_tier" {
+  
+}

@@ -4,4 +4,5 @@ module "cloud-storage" {
   #for_each = var.gcs
   names = var.gcs
   project_id = var.project_id
+  location = var.region
 }

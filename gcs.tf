@@ -3,6 +3,6 @@ module "cloud-storage" {
   version = "10.0.1"
   #for_each = var.gcs
   count = length(var.gcs)
-  names = var.gcs[count.index]
+  names = var.gcs
   project_id = var.project_id
 }

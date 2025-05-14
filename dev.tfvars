@@ -6,4 +6,7 @@ label        = {
   "env" = "de"
 }
 
-gcs = ["ashu-bucket7766", "ashu-bucket8825"]
+gcs = {
+  "buck1" = "ashu-bucket7766",
+  "buck2" = "ashu-bucket8825"
+}

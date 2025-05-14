@@ -3,5 +3,5 @@ name         = "my-instanc-test-4"
 machine_type = "n2-standard-2"
 zone         = "us-central1-a"
 label        = {
-  "env" = "dev"
+  "env" = "de"
 }

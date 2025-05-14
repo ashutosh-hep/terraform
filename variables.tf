@@ -20,5 +20,5 @@ variable "project_id" {
 }
 
 variable "gcs" {
-  type = any
+  type = set()
 }

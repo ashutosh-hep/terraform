@@ -24,5 +24,5 @@ variable "gcs" {
 }
 
 variable "editor_member" {
-  type = list(string)
+  type = set(string)
 }
